@@ -37,3 +37,10 @@ pip install torch torchvision gradio
 Assurez-vous que le dataset Fruits 360 est téléchargé et que les chemins dans le notebook sont corrects.
 
 Vous pouvez tester la prédiction via l’interface Gradio intégrée.
+
+
+## Démo en ligne
+
+Vous pouvez tester le classificateur de fruits en ligne sur Hugging Face Spaces :  
+[🔗 Fruits360Vision – Testez-le ici](https://huggingface.co/spaces/rerole94/Fruits360Vision)
+
